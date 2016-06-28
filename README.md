@@ -48,6 +48,9 @@ Para la compilacion del main.cpp se deve tener las librerias declaradas antes;
 	llegro_image-5 allegro_memfile-5 allegro_ttf-5 allegro_physfs-5 allegro_dialog-5 allegro_acodec-5 allegro_video-5 
 	allegro_main-5 allegro_primitives-5 allegro_audio-5` && ./${file_base_name}
 
+	Abrir el archivo compilado:
+		- Entrar donde lo compilasde con "cd"
+		- Despues escribir ./{nombre_del_archivo}
 	NOTA: Es muy necesario instalar allegro 5.0 o mayor
 
 Instalacion de G++ en Ubuntu:
